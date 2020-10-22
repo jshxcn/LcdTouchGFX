@@ -1,0 +1,10 @@
+lcdtouchgfx\generatedfont.o: ../touchgfx/generated/fonts/src/generatedfont.cpp
+lcdtouchgfx\generatedfont.o: ../touchgfx/generated/fonts/include/fonts/GeneratedFont.hpp
+lcdtouchgfx\generatedfont.o: ../middlewares/st/touchgfx/framework/include/touchgfx/ConstFont.hpp
+lcdtouchgfx\generatedfont.o: ../middlewares/st/touchgfx/framework/include/touchgfx/Font.hpp
+lcdtouchgfx\generatedfont.o: ../middlewares/st/touchgfx/framework/include/touchgfx/Unicode.hpp
+lcdtouchgfx\generatedfont.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+lcdtouchgfx\generatedfont.o: ../middlewares/st/touchgfx/framework/include/touchgfx/hal/Types.hpp
+lcdtouchgfx\generatedfont.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+lcdtouchgfx\generatedfont.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+lcdtouchgfx\generatedfont.o: ../middlewares/st/touchgfx/framework/include/touchgfx/hal/Config.hpp
